@@ -14,6 +14,6 @@ Moreover, inside src there are the following subdirectories:
 
 - `META-INF`: containing the `MANIFEST.MF` file for creating the `.jar` file starting from the `Main-Class`
 
-Also, in the main directory, there is `runner.s`, a script to compile and run the project, executable with the command `bash runner.sh`
+Also, in the main directory, there is `runner.sh`, a script to compile and run the project, executable with the command `bash runner.sh`
 
 Every 90 seconds a Thread triggers the automatic saving of the main table to a .tmp file in a path periodically printed on the terminal
